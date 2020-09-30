@@ -1,0 +1,46 @@
+/*p {
+    color: seagreen;
+    
+}
+
+p.error{
+    color:royalblue;
+}
+p.success.feedback{
+    color:brown ;
+    border:7px steelblue;
+}
+*/
+#top-container{
+    background-color: rgb(15, 28, 34);
+}
+#botton-container 
+{
+    background-color: lightgreen;
+}
+div .error {
+    color: lightseagreen;
+}
+a[href] {
+    font-size: 27px;
+    text-decoration: none;
+    text-transform: uppercase; 
+    background-color: lime;
+}
+a[herf="www.google.com"]{
+
+}
+a[href$=".ac.id"]{
+    background-color: mediumaquamarine;
+}
+h1:hover {
+    color: rgb(102, 205, 186);
+    background-color: black;
+}
+p::selection{
+    background-color: brown;
+    color: burlywood;
+}
+a ::before {
+    content: "Link -";
+}
