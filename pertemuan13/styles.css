@@ -1,0 +1,28 @@
+.img1 {
+
+    background-color: lightskyblue;
+    width: 100px;
+    display: block;
+    border: 10px solid red;
+    padding: 20px;
+}
+.img2 {
+
+   
+    background-color: lightskyblue;
+    width: 100px;
+    display: block;
+    border: 10px solid red;
+    padding: 20px;
+    margin-left: 160px;
+}
+.img3 {
+
+   
+    background-color: lightskyblue;
+    width: 100px;
+    display: block;
+    border: 10px solid red;
+    padding: 20px;
+    margin-left: 320px;
+}

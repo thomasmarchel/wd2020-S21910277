@@ -33,7 +33,7 @@ a[herf="www.google.com"]{
 a[href$=".ac.id"]{
     background-color: mediumaquamarine;
 }
-h1:hover {
+h1 :hover {
     color: rgb(102, 205, 186);
     background-color: black;
 }
