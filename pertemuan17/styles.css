@@ -1,0 +1,23 @@
+body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 1.0000em; /*16px;  100.00%; */
+    text-align: center;
+}
+h1 {
+    font-family: "Give You Glory", cursive;
+    font-size: 1.4375rem; /*23px; 143.75%;*/
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+h2
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 137%;/*22px; 1.3750em*/
+
+}
+div {
+    margin: 23px; /*1.4375rem;  143.75%;*/
+    padding: 23px;/*1.4375rem;  143.75%;*/
+}
