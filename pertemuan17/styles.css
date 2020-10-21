@@ -21,3 +21,13 @@ div {
     margin: 23px; /*1.4375rem;  143.75%;*/
     padding: 23px;/*1.4375rem;  143.75%;*/
 }
+img {
+
+   
+    background-color: lightskyblue;
+    width: 6.25em;
+    display: block;
+    border: 0.625rem solid red;
+    padding: 1.25%;
+    margin-left: 520px;
+}
